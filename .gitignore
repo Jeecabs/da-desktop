@@ -1,0 +1,8 @@
+node_modules/
+.pnpm-store/
+.pnpm-debug.log
+dist/
+.DS_Store
+
+# Written by Claude Code when it loads the mod
+.claude-plugin/types/
