@@ -1,0 +1,7 @@
+{
+  "name": "da-desktop",
+  "version": "0.1.0",
+  "description": "See and operate your desktop apps from Claude Code through agent-desktop and the OS accessibility tree, in a snapshot namespace per session.",
+  "author": { "name": "Jeecabs" },
+  "repository": "https://github.com/Jeecabs/da-desktop"
+}
